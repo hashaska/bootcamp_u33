@@ -89,4 +89,9 @@ juriye iletilmek istenen herhangi bir şey var mı???
 
 
 # Sprint 1
-[https://cdn.discordapp.com/attachments/1118425814820737096/1120063193134399618/karakter_kontrol1.JPG]
+
+![control1](https://github.com/hashaska/bootcamp_u33/blob/main/karakter_kontrol1.JPG)
+
+
+
+
