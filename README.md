@@ -92,6 +92,11 @@ juriye iletilmek istenen herhangi bir şey var mı???
 
 ![control1](https://github.com/hashaska/bootcamp_u33/blob/main/karakter_kontrol1.JPG)
 
+![portal](https://github.com/hashaska/bootcamp_u33/blob/main/portal2_view.JPG)
+
+![portal2](https://github.com/hashaska/bootcamp_u33/blob/main/world1_world2.JPG)
+
+[![raining](thumbnail-url)](https://youtu.be/Gmq0A53nlzY)
 
 
 
