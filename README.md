@@ -83,14 +83,28 @@ Yapay zeka, karaktere rehberlik eder, görevleri yönlendirir ve ipuçları sağ
 ## Juriye Not
 #
 
-juriye iletilmek istenen herhangi bir şey var mı???
+Ana hatlarıyla büyük ölçüde belirlenen projemiz her sprintteki çalışmalarımızla birlikte oynanış kısmı ve görevler kısmında da geliştirilmeye devam edilicektir ve daha da farklı sonuçlar elde etme potansiyelimiz bulunuyor.
 
 <br>
 
 
 # Sprint 1
 
+![sprint1](https://github.com/hashaska/bootcamp_u33/blob/main/sprint1miro.png)
+
 ![control1](https://github.com/hashaska/bootcamp_u33/blob/main/karakter_kontrol1.JPG)
+
+## Çevre
+
+![alan1](https://github.com/hashaska/bootcamp_u33/blob/main/alan1.png)
+![alan2](https://github.com/hashaska/bootcamp_u33/blob/main/alan2.png)
+![alan3](https://github.com/hashaska/bootcamp_u33/blob/main/alan3.png)
+![alan4](https://github.com/hashaska/bootcamp_u33/blob/main/alan4.png)
+![alan5](https://github.com/hashaska/bootcamp_u33/blob/main/alan5.png)
+![alan6](https://github.com/hashaska/bootcamp_u33/blob/main/alan6.png)
+
+
+## Portal
 
 ![portal](https://github.com/hashaska/bootcamp_u33/blob/main/portal2_view.JPG)
 
