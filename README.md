@@ -111,5 +111,10 @@ Ana hatlarıyla büyük ölçüde belirlenen projemiz her sprintteki çalışmal
 ![portal2](https://github.com/hashaska/bootcamp_u33/blob/main/world1_world2.JPG)
 
 
+## Oyun içi diğer link
+
+[Drive](https://drive.google.com/drive/u/0/folders/1grDpUIZNOS_mZmSaDqulw4m9bd-mOfwr)
+
+
 
 
