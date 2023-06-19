@@ -25,7 +25,7 @@ Furkan Şener: Developer
 
 Can Türkoğlu: Developer / Product Owner
 
-Arzunur Köroğlu: Developer / Project Manager
+Arzunur Köroğlu: Developer
 
 
 
