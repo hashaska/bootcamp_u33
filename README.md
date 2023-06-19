@@ -12,20 +12,20 @@ Takım Aeon
 
 
 ## Takım Elemanları
-#
+
 <!-- headers --->
 
 
 #### 
-Gizem Ünal: Scrum Master/Designer/Developer
+Gizem Ünal: Scrum Master / Designer / Developer
 
 Hasan Halil Karakaş: Developer
 
 Furkan Şener: Developer
 
-Can Türkoğlu: Developer
+Can Türkoğlu: Developer / Product Owner
 
-Arzunur Köroğlu: Project Manager/ Developer
+Arzunur Köroğlu: Developer / Project Manager
 
 
 
@@ -33,13 +33,13 @@ Arzunur Köroğlu: Project Manager/ Developer
 
 
 ## Ürün İsmi
-#
+
 #### The Quest 33 <br>
 
 <br>
 
 ## Product Backlog URL
-#
+
  [Miro](https://miro.com/app/board/uXjVM-jEHbk=/)
 
 <br>
@@ -49,7 +49,7 @@ Arzunur Köroğlu: Project Manager/ Developer
 
 
 ## Oyun Açıklaması
-#
+
 Yaşanılır olmayan bir post-apokaliptik dünyada geçen bir aksiyon-macera oyunudur. Oyuncular, ana karakterin hayatta kalma mücadelesine tanık olurken dünyanın kurtuluşu için yola çıkarlar. Hikaye, karakterin evinde uyanıp çevresini gözlemlemesiyle başlar, çevresindeki araçlardan dünyanın sonunun geldiğine dair haberleri görür ve dehşet verici bir tablo ile karşılaşır, paniğe kapılır ve dışarı çıkar. Her yer yıkık dökük ve umutsuzlukla dolu görünmektedir. Nefes alamadığı bir ortamda yaşadığı çaresizliği hisseder. Bir portalın aniden açılmasıyla karakterimiz kendini yıkık dökük bir fabrikanın içinde bulur. Fabrikanın derinliklerinde keşiflere çıkan karakter, bilgisayar ekranlarından dünyanın nasıl bir felakete sürüklendiğine dair kanıtlarla karşılaşır. Bilim insanlarının insanlığı kurtarmak için çabaladıklarını ancak zamanın yetmediğini ve insanların bedenlerini dondurarak korumaya alındığını öğrenir. Bu sırada fabrikadaki bir yapay zeka, karaktere yardım etmek ve dünyayı yaşanabilir hale getirmek için ona destek olmak istediğini ifade eder. Karakter dünyayı ve ailesini kurtarmak için hareket geçer.
 
 Yapay zeka, karaktere rehberlik eder, görevleri yönlendirir ve ipuçları sağlar. Ayrıca hikaye ilerledikçe karakterle etkileşime geçerek duygusal bir bağ kurar. İleri zamanda bir sızıntının meydana geldiği gizemli bir dünyada geçen bir stratejik macera oyunudur. Oyuncular, yalnız kaybolmuş karakterimizin yolculuğuna katılır ve zamandaki dengenin yeniden sağlanması için mücadele eder. Oyun, keşif, bulmaca çözme ve beceri tabanlı zorluklarla dolu bir dünyada geçer.
@@ -57,7 +57,7 @@ Yapay zeka, karaktere rehberlik eder, görevleri yönlendirir ve ipuçları sağ
 <br>
 
 ## Oynanış ve Özellikler
-#
+
 -Atmosferi düzeltmek için karakter, farklı bölgelere ulaşmak için portal kullanır ve yaşanabilir bir oksijen seviyesi sağlamak için görevler yerine getirir.
 
 -Bir diğer portal, çevreyi tekrar canlandırmak ve bitkilerin filizlenmesini sağlamak için karaktere yardımcı olur. Bu görevde karakter, tohumları ekerek ve bitki örtüsünü restore ederek doğal dengeyi yeniden sağlamaya çalışır.
@@ -72,7 +72,7 @@ Yapay zeka, karaktere rehberlik eder, görevleri yönlendirir ve ipuçları sağ
 
 
 ## Hedef Kitle
-#
+
 - Strateji Oyunları Severler
 - Macera ve Keşif Tutkunları
 - Çevre Bilincine Sahip Oyuncular
@@ -81,7 +81,7 @@ Yapay zeka, karaktere rehberlik eder, görevleri yönlendirir ve ipuçları sağ
 <br>
 
 ## Juriye Not
-#
+
 
 Ana hatlarıyla büyük ölçüde belirlenen projemiz her sprintteki çalışmalarımızla birlikte oynanış kısmı ve görevler kısmında da geliştirilmeye devam edilicektir ve daha da farklı sonuçlar elde etme potansiyelimiz bulunuyor.
 
