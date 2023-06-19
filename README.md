@@ -17,7 +17,7 @@ Takım Aeon
 
 
 #### 
-Gizem Ünal: Scrum Master / Designer / Developer
+Gizem Ünal: Developer / Scrum Master 
 
 Hasan Halil Karakaş: Developer
 
