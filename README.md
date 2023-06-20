@@ -106,12 +106,7 @@ Ana hatlarıyla büyük ölçüde belirlenen projemiz her sprintteki çalışmal
 
 - **Çevre**
 
-![alan1](https://github.com/hashaska/bootcamp_u33/blob/main/alan1.png)
-![alan2](https://github.com/hashaska/bootcamp_u33/blob/main/alan2.png)
-![alan3](https://github.com/hashaska/bootcamp_u33/blob/main/alan3.png)
-![alan4](https://github.com/hashaska/bootcamp_u33/blob/main/alan4.png)
-![alan5](https://github.com/hashaska/bootcamp_u33/blob/main/alan5.png)
-![alan6](https://github.com/hashaska/bootcamp_u33/blob/main/alan6.png)
+![alan1](https://github.com/hashaska/bootcamp_u33/blob/main/ProjectManagement/Sprint-1-Documents/Alan-1.png)
 
 
 - **Portal**
