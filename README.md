@@ -83,7 +83,7 @@ Yapay zeka, karaktere rehberlik eder, görevleri yönlendirir ve ipuçları sağ
 ## Juriye Not
 
 
-Ana hatlarıyla büyük ölçüde belirlenen projemiz her sprintteki çalışmalarımızla birlikte oynanış kısmı ve görevler kısmında da geliştirilmeye devam edilicektir ve daha da farklı sonuçlar elde etme potansiyelimiz bulunuyor.
+Ana hatlarıyla büyük ölçüde belirlenen projemiz ilk sprint için geçerli sebeplerden dolayı eksiklikler oldu. Gelecek sprintler için daha fazla çalışma zamanı ayrılacak ve geliştirmeye devam edilecektir. Potansiyel olarak daha iyi bir iş çıkaracağımız ön görülüyor.
 
 <br>
 
@@ -98,11 +98,11 @@ Ana hatlarıyla büyük ölçüde belirlenen projemiz her sprintteki çalışmal
 
 - **Sprint board update:** _Sprint board screenshots:_ 
 
-![sprint1](https://github.com/hashaska/bootcamp_u33/blob/main/sprint1miro.png)
+![sprint1](https://github.com/hashaska/bootcamp_u33/blob/main/ProjectManagement/Sprint-1-Documents/sprint1miro.png)
 
 - **Oyun Durumu** 
 
-![control1](https://github.com/hashaska/bootcamp_u33/blob/main/karakter_kontrol1.JPG)
+![control1](https://github.com/hashaska/bootcamp_u33/blob/main/ProjectManagement/Sprint-1-Documents/karakter_kontrol1.JPG)
 
 - **Çevre**
 
@@ -111,18 +111,32 @@ Ana hatlarıyla büyük ölçüde belirlenen projemiz her sprintteki çalışmal
 
 - **Portal**
 
-![portal](https://github.com/hashaska/bootcamp_u33/blob/main/portal2_view.JPG)
-
-![portal2](https://github.com/hashaska/bootcamp_u33/blob/main/world1_world2.JPG)
+![portal](https://github.com/hashaska/bootcamp_u33/blob/main/ProjectManagement/Sprint-1-Documents/portal-1.png)
 
 
 - **Oyun içi diğer link** 
 
 [Drive](https://drive.google.com/drive/u/0/folders/1grDpUIZNOS_mZmSaDqulw4m9bd-mOfwr)
 
-- **Sprint Review:** *Alınan kararlar:* 
+- **Sprint Review:** *Alınan kararlar:* Oyunun ana hikayesi üzerinde düzenlemeler yapıldı. Asit yağmuru, portal ve karakter kontrolleri başlangıç düzeyinde kodlandı. Şehir ve diğer bölgeler için çevre elemanlarının bir kısmı çizildi.  Geriye kalan eksikler değerlendirildi.
+Sprint Review Katılımcıları: Arzunur Köroğlu, Gizem Ünal, Hasan Halil Karakaş, Furkan Şener, Can Türkoğlu
 
-- **Sprint Retrospective:** 
+- **Sprint Retrospective:**
+
+Sprint boyunca ekip üyeleri sorumluluklarını yerine getirerek görev dağılımı ve yardımlaşma konusunda başarılı bir iş çıkardı, bu da projenin ilerlemesi için önemliydi.
+<br>
+
+Takım içindeki görev dağılımıyla ilgili düzenlemeler yapıldı.
+<br>
+
+Oyun tasarımında olgunlaşmayan diğer bölümler hakkında yeniden tartışılıp karar verilmesi noktasında anlaşılmıştır.
+<br>
+
+Görevlerin oyunun hikaye ve temasıyla tutarlı bir şekilde entegre olduğunu sağladık.
+<br>
+
+Takım üyelerinin gelecek sprintlerde daha aktif olunması gerektiğine vurgu yapıldı. 
+
 
 
 
