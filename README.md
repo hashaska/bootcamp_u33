@@ -90,11 +90,21 @@ Ana hatlarıyla büyük ölçüde belirlenen projemiz her sprintteki çalışmal
 
 # Sprint 1
 
+- **Sprint içinde tamamlanması tahmin edilen puan:** 75
+
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprint'ten en azından 75 ile başlaması gerektiğine karar verildi.
+
+- **Daily Scrum:** Daily Scrum toplantılarını zamansal ve kullanılan araç müsaitliğine göre Discord,Zoom ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jped,pdf,doc olarak Readme'de tarafımızdan paylaşılmaktadır.
+
+- **Sprint board update:** _Sprint board screenshots:_ 
+
 ![sprint1](https://github.com/hashaska/bootcamp_u33/blob/main/sprint1miro.png)
+
+- **Oyun Durumu** 
 
 ![control1](https://github.com/hashaska/bootcamp_u33/blob/main/karakter_kontrol1.JPG)
 
-## Çevre
+- **Çevre**
 
 ![alan1](https://github.com/hashaska/bootcamp_u33/blob/main/alan1.png)
 ![alan2](https://github.com/hashaska/bootcamp_u33/blob/main/alan2.png)
@@ -104,16 +114,23 @@ Ana hatlarıyla büyük ölçüde belirlenen projemiz her sprintteki çalışmal
 ![alan6](https://github.com/hashaska/bootcamp_u33/blob/main/alan6.png)
 
 
-## Portal
+- **Portal**
 
 ![portal](https://github.com/hashaska/bootcamp_u33/blob/main/portal2_view.JPG)
 
 ![portal2](https://github.com/hashaska/bootcamp_u33/blob/main/world1_world2.JPG)
 
 
-## Oyun içi diğer link
+- **Oyun içi diğer link** 
 
 [Drive](https://drive.google.com/drive/u/0/folders/1grDpUIZNOS_mZmSaDqulw4m9bd-mOfwr)
+
+- **Sprint Review:** *Alınan kararlar:* 
+
+- **Sprint Retrospective:** 
+
+
+
 
 
 
