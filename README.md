@@ -98,7 +98,7 @@ Ana hatlarıyla büyük ölçüde belirlenen projemiz ilk sprint için geçerli 
 
 - **Sprint board update:** _Sprint board screenshots:_ 
 
-![sprint1](https://github.com/hashaska/bootcamp_u33/blob/main/ProjectManagement/Sprint-1-Documents/sprint1miro.png)
+![sprint1](https://github.com/hashaska/bootcamp_u33/blob/main/ProjectManagement/Sprint-1-Documents/miro_sprint1.png)
 
 - **Oyun Durumu** 
 
