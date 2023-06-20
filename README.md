@@ -94,8 +94,8 @@ Ana hatlarıyla büyük ölçüde belirlenen projemiz ilk sprint için geçerli 
 
 - **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprint'ten en azından 75 ile başlaması gerektiğine karar verildi.
 
-- **Daily Scrum:** Daily Scrum toplantılarını zamansal ve kullanılan araç müsaitliğine göre Discord,Zoom ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jped,pdf,doc olarak Readme'de tarafımızdan paylaşılmaktadır.
- [Daily Scrum Chats](https://docs.google.com/document/d/1wCsVHpRgz9MrPvTOUb4731VCqIH2j0EPlHxvDWikUrE/edit)
+- **Daily Scrum:** [Daily Scrum](https://docs.google.com/document/d/1wCsVHpRgz9MrPvTOUb4731VCqIH2j0EPlHxvDWikUrE/edit) toplantılarını zamansal ve kullanılan araç müsaitliğine göre Discord, Zoom ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jped,pdf,doc olarak Readme'de tarafımızdan paylaşılmaktadır.
+
 
 - **Sprint board update:** _Sprint board screenshots:_ 
 
