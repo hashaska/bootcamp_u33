@@ -151,12 +151,25 @@ Takım üyelerinin gelecek sprintlerde daha aktif olunması gerektiğine vurgu y
 - **Backlog düzeni:** Backlog'umuz oyunumuzun ilk üç levelı baz alınarak düzenlenmiştir. Sprint başına tahmin edilen toplam puan sayısını geçmeyecek şekilde eşit dağıtımlar yapılmaktadır.
 
 - **Sprint board update:** _Sprint board screenshots:_ 
+<img width="1108" alt="Screenshot 2023-07-03 at 01 16 20" src="https://github.com/hashaska/bootcamp_u33/assets/75565398/f7a2a6a4-62d9-4588-b31e-dd98d4bbc409">
 
 - **Oyun Durumu** Ekran Görüntüleri:
+
+- **Portal**
+![portal_world_all4](https://github.com/hashaska/bootcamp_u33/assets/75565398/f626a8f8-a1d3-4cb4-801c-7d1b5c9daeba)
+![portal_world_all3](https://github.com/hashaska/bootcamp_u33/assets/75565398/b102ba38-89c7-464d-ab4c-cc1511084bb1)
+![portal_world_all](https://github.com/hashaska/bootcamp_u33/assets/75565398/4b353a65-f1bc-44a4-9d26-6b09cfc720fe)
+![portal_world3](https://github.com/hashaska/bootcamp_u33/assets/75565398/985a25bd-7961-4534-8f70-634982743521)
+
+- **Hologram**
+![hologram2](https://github.com/hashaska/bootcamp_u33/assets/75565398/37921235-475e-435f-bdbd-d5e8413ca61a)
+![hologram](https://github.com/hashaska/bootcamp_u33/assets/75565398/56c52b0d-7836-405c-8864-079c48fa90bb)
+
 
 - **Oyun içi diğer link** 
 
 [Drive 1](https://drive.google.com/drive/u/0/folders/1grDpUIZNOS_mZmSaDqulw4m9bd-mOfwr)
+
 [Drive 2](https://drive.google.com/drive/folders/1lrcP4hkSntL8oNqGhwcWTkMPlxNy703L)
 
 - **Sprint Review:** *Alınan kararlar:*
@@ -174,6 +187,7 @@ Görevlerin dağıtımından sonra ilerlemelerin takibi için toplantılar gerç
 Oyuncunun oyunun içinde gibi hissetmesini sağlamak ve gerçekliği artırmak için birkaç eklentiye karar verildi.
 
 Bu kararlar, 2. sprintin başarıyla tamamlanması ve oyuncu deneyimini geliştirmek amacıyla alınmıştır.
+
 Sprint Review Katılımcıları: Arzunur Köroğlu, Gizem Ünal, Hasan Halil Karakaş, Furkan Şener, Can Türkoğlu
 
 - **Sprint Retrospective:**
