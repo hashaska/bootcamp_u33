@@ -146,14 +146,16 @@ Takım üyelerinin gelecek sprintlerde daha aktif olunması gerektiğine vurgu y
   
 - **Puan tamamlama mantığı:** Toplam tamamlanması gereken 150 puanlık backlog bulunmaktadır. İlk sprintte hedeflenen 75 puan tamamlandı. İkinci spirintin ortaya ilk üç bölümü çıkarmayı hedeflemesi sebebiyle 125 puan verildi.
 
-- **Daily Scrum:** [Daily Scrum](https://docs.google.com/document/d/1wCsVHpRgz9MrPvTOUb4731VCqIH2j0EPlHxvDWikUrE/edit), yapılanlar ve destek istenen konularda Discord ve Whatsapp üzerinden iletişime geçildi ve 5 adet ekip toplantısı sonucu ayrıntılı ilermeler analiz edildi.
+- **Daily Scrum:** [Daily Scrum](), yapılanlar ve destek istenen konularda Discord ve Whatsapp üzerinden iletişime geçildi ve 5 adet ekip toplantısı sonucu ayrıntılı ilermeler analiz edildi.
 
-- **Backlog düzeni:** Backlog'umuz oyunumuzun ilk üç levelı baz alınarak düzenlenmiştir. Sprint başına tahmin edilen toplam puan sayısını geçmeyecek şekilde eşit dağıtımlar yapılmaktadır.
+- **Backlog düzeni:** Backlog'umuz oyunumuzun ilk üç levelı baz alınarak düzenlenmiştir. Sprint başına tahmin edilen toplam puan sayısını geçmeyecek şekilde eşit dağıtımlar yapılmaktadır. [Product Backlog URL](https://miro.com/welcomeonboard/bFI0TXg1YmJpc0FsSnJqZnYxYUFEdzF5UDgzZGVrZ0hSUmNWWUtUQ2FnRWtJQ3BzMWh3bWNhZmQxMG5SQUdra3wzNDU4NzY0NTU3MDQwMTQxNDcwfDI=?share_link_id=935930534138)
+
 
 - **Sprint board update:** _Sprint board screenshots:_ 
 <img width="1108" alt="Screenshot 2023-07-03 at 01 16 20" src="https://github.com/hashaska/bootcamp_u33/assets/75565398/f7a2a6a4-62d9-4588-b31e-dd98d4bbc409">
 
 - **Oyun Durumu** Ekran Görüntüleri:
+![LevelDesign Photos-1](https://github.com/hashaska/bootcamp_u33/assets/75565398/d8b5c638-7c18-4c97-b116-e6de4de54009)
 
 - **Portal**
 ![portal_world_all4](https://github.com/hashaska/bootcamp_u33/assets/75565398/f626a8f8-a1d3-4cb4-801c-7d1b5c9daeba)
