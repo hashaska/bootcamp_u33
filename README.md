@@ -156,7 +156,8 @@ Takım üyelerinin gelecek sprintlerde daha aktif olunması gerektiğine vurgu y
 
 - **Oyun içi diğer link** 
 
-[Drive](https://drive.google.com/drive/u/0/folders/1grDpUIZNOS_mZmSaDqulw4m9bd-mOfwr)
+[Drive 1](https://drive.google.com/drive/u/0/folders/1grDpUIZNOS_mZmSaDqulw4m9bd-mOfwr)
+[Drive 2](https://drive.google.com/drive/folders/1lrcP4hkSntL8oNqGhwcWTkMPlxNy703L)
 
 - **Sprint Review:** *Alınan kararlar:*
   
