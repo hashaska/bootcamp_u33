@@ -138,6 +138,58 @@ Görevlerin oyunun hikaye ve temasıyla tutarlı bir şekilde entegre olduğunu 
 
 Takım üyelerinin gelecek sprintlerde daha aktif olunması gerektiğine vurgu yapıldı. 
 
+<br>
+
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan:** 125
+  
+- **Puan tamamlama mantığı:** Toplam tamamlanması gereken 150 puanlık backlog bulunmaktadır. İlk sprintte hedeflenen 75 puan tamamlandı. İkinci spirintin ortaya ilk üç bölümü çıkarmayı hedeflemesi sebebiyle 125 puan verildi.
+
+- **Daily Scrum:** [Daily Scrum](https://docs.google.com/document/d/1wCsVHpRgz9MrPvTOUb4731VCqIH2j0EPlHxvDWikUrE/edit), yapılanlar ve destek istenen konularda Discord ve Whatsapp üzerinden iletişime geçildi ve 5 adet ekip toplantısı sonucu ayrıntılı ilermeler analiz edildi.
+
+- **Backlog düzeni:** Backlog'umuz oyunumuzun ilk üç levelı baz alınarak düzenlenmiştir. Sprint başına tahmin edilen toplam puan sayısını geçmeyecek şekilde eşit dağıtımlar yapılmaktadır.
+
+- **Sprint board update:** _Sprint board screenshots:_ 
+
+- **Oyun Durumu** Ekran Görüntüleri:
+
+- **Oyun içi diğer link** 
+
+[Drive](https://drive.google.com/drive/u/0/folders/1grDpUIZNOS_mZmSaDqulw4m9bd-mOfwr)
+
+- **Sprint Review:** *Alınan kararlar:*
+  
+Oyun bölümleriyle ilgili detaylı çalışma yapıldı ve Game Design Document (GDD) kılavuzu dolduruldu.
+  
+Oyunun hikayesi ve 6 bölümü oluşturuldu.
+
+İlk üç bölümün yapılması için 2. sprint için görev paylaşımı yapıldı.
+
+Modelleme sürecini hızlandırmak amacıyla hazır asset kullanımına karar verildi.
+
+Görevlerin dağıtımından sonra ilerlemelerin takibi için toplantılar gerçekleştirildi.
+
+Oyuncunun oyunun içinde gibi hissetmesini sağlamak ve gerçekliği artırmak için birkaç eklentiye karar verildi.
+
+Bu kararlar, 2. sprintin başarıyla tamamlanması ve oyuncu deneyimini geliştirmek amacıyla alınmıştır.
+Sprint Review Katılımcıları: Arzunur Köroğlu, Gizem Ünal, Hasan Halil Karakaş, Furkan Şener, Can Türkoğlu
+
+- **Sprint Retrospective:**
+
+Takım üyelerinin gelecek sprintlerde daha fazla rapor vermesi gerektiğine vurgu yapılmıştır.
+
+Bayram nedeniyle kopukluklar yaşandı ve bu hesaba katılmayan gecikmelere sebep oldu. 
+
+3.Sprint başında aktiflik yönünde herkes birbirini motive etti.
+
+İş takibi açısından her akşam saat 21:00'de Discord ses kanalı üzerinden 15 dakikalık toplantı yapılmasına karar verilmiştir. 
+
+  
+
+
+
+
 
 
 
