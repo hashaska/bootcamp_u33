@@ -146,7 +146,7 @@ Takım üyelerinin gelecek sprintlerde daha aktif olunması gerektiğine vurgu y
   
 - **Puan tamamlama mantığı:** Toplam tamamlanması gereken 150 puanlık backlog bulunmaktadır. İlk sprintte hedeflenen 75 puan tamamlandı. İkinci spirintin ortaya ilk üç bölümü çıkarmayı hedeflemesi sebebiyle 125 puan verildi.
 
-- **Daily Scrum:** [Daily Scrum](), yapılanlar ve destek istenen konularda Discord ve Whatsapp üzerinden iletişime geçildi ve 5 adet ekip toplantısı sonucu ayrıntılı ilermeler analiz edildi.
+- **Daily Scrum:** [Daily Scrum](https://github.com/hashaska/bootcamp_u33/blob/main/ProjectManagement/Sprint-2-Documents/dailyscrum.pdf), yapılanlar ve destek istenen konularda Discord ve Whatsapp üzerinden iletişime geçildi ve 5 adet ekip toplantısı sonucu ayrıntılı ilermeler analiz edildi.
 
 - **Backlog düzeni:** Backlog'umuz oyunumuzun ilk üç levelı baz alınarak düzenlenmiştir. Sprint başına tahmin edilen toplam puan sayısını geçmeyecek şekilde eşit dağıtımlar yapılmaktadır. [Product Backlog URL](https://miro.com/welcomeonboard/bFI0TXg1YmJpc0FsSnJqZnYxYUFEdzF5UDgzZGVrZ0hSUmNWWUtUQ2FnRWtJQ3BzMWh3bWNhZmQxMG5SQUdra3wzNDU4NzY0NTU3MDQwMTQxNDcwfDI=?share_link_id=935930534138)
 
