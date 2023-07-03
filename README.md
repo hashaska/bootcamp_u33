@@ -209,7 +209,8 @@ Bayram nedeniyle kopukluklar yaşandı ve bu hesaba katılmayan gecikmelere sebe
 
 İş takibi açısından her akşam saat 21:00'de Discord ses kanalı üzerinden 15 dakikalık toplantı yapılmasına karar verilmiştir. 
 
-  
+- **Sprint Notes:**
+2.Sprint'de oyuncunun oyun içindeki hissini güçlendirmek ve gerçekliği artırmak için ekstra detaylara odaklandık. Asset konusunda modelleme yerine hazır olanları kullanmak bize zaman kazandırdı. Animasyonlar üzerinde çalışmalar yapıldı. Yeni bölümlerin tasarımları ve düşman yerleşimleri için fikir toplandı ve planlamalar yapıldı. Ayrıca bir sonraki sprintte oyunun performansını artırmak için optimizasyon çalışmaları yapılması için ileriye dönük karar verildi. Sonraki sprintlerde daha fazla rapor verilmesi ve gecikmelerin hesaba katılması vurgulandı.
 
 
 
