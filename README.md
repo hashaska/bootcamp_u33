@@ -1,7 +1,6 @@
 # Takım İsmi
 ### 
 Takım Aeon
-###
 
 
 <br>
@@ -152,18 +151,26 @@ Takım üyelerinin gelecek sprintlerde daha aktif olunması gerektiğine vurgu y
 
 
 - **Sprint board update:** _Sprint board screenshots:_ 
-<img width="1108" alt="Screenshot 2023-07-03 at 01 16 20" src="https://github.com/hashaska/bootcamp_u33/assets/75565398/f7a2a6a4-62d9-4588-b31e-dd98d4bbc409">
+<img width="1024" alt="Screenshot 2023-07-03 at 08 22 23" src="https://github.com/hashaska/bootcamp_u33/assets/75565398/74a71654-6f9a-4233-baa1-b201562e7f56">
 
 - **Oyun Durumu** Ekran Görüntüleri:
+
+![ch-fall](https://github.com/hashaska/bootcamp_u33/assets/75565398/44e5303a-3901-4200-8ef5-d6b89cd974b2)
+![ch-fall-2](https://github.com/hashaska/bootcamp_u33/assets/75565398/59e28b06-de1b-4002-8829-5bc066710ded)
+
+- **Çevre**
+  
 ![LevelDesign Photos-1](https://github.com/hashaska/bootcamp_u33/assets/75565398/d8b5c638-7c18-4c97-b116-e6de4de54009)
 
 - **Portal**
+  
 ![portal_world_all4](https://github.com/hashaska/bootcamp_u33/assets/75565398/f626a8f8-a1d3-4cb4-801c-7d1b5c9daeba)
 ![portal_world_all3](https://github.com/hashaska/bootcamp_u33/assets/75565398/b102ba38-89c7-464d-ab4c-cc1511084bb1)
 ![portal_world_all](https://github.com/hashaska/bootcamp_u33/assets/75565398/4b353a65-f1bc-44a4-9d26-6b09cfc720fe)
 ![portal_world3](https://github.com/hashaska/bootcamp_u33/assets/75565398/985a25bd-7961-4534-8f70-634982743521)
 
 - **Hologram**
+  
 ![hologram2](https://github.com/hashaska/bootcamp_u33/assets/75565398/37921235-475e-435f-bdbd-d5e8413ca61a)
 ![hologram](https://github.com/hashaska/bootcamp_u33/assets/75565398/56c52b0d-7836-405c-8864-079c48fa90bb)
 
