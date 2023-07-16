@@ -225,13 +225,16 @@ Bayram nedeniyle kopukluklar yaşandı ve bu hesaba katılmayan gecikmelere sebe
 - **Backlog düzeni:** Backlog'umuz oyunumuzun ilk üç levelı baz alınarak düzenlenmiştir. Sprint başına tahmin edilen toplam puan sayısını geçmeyecek şekilde eşit dağıtımlar yapılmaktadır. [Product Backlog URL](https://miro.com/welcomeonboard/bFI0TXg1YmJpc0FsSnJqZnYxYUFEdzF5UDgzZGVrZ0hSUmNWWUtUQ2FnRWtJQ3BzMWh3bWNhZmQxMG5SQUdra3wzNDU4NzY0NTU3MDQwMTQxNDcwfDI=?share_link_id=935930534138)
 
 
-- **Sprint board update:
-[sprint 3](https://github.com/hashaska/bootcamp_u33/assets/112066755/0fef7528-0cb7-4198-8135-3361e027e1db)
+- **Sprint board update:**
+![sprint 3](https://github.com/hashaska/bootcamp_u33/assets/112066755/0fef7528-0cb7-4198-8135-3361e027e1db)
  
 
 
 - **Oyun Durumu** Ekran Görüntüleri:
 
+- **Ana Menü**
+
+<img width="1302" alt="Screenshot 2023-07-17 at 02 09 42" src="https://github.com/hashaska/bootcamp_u33/assets/75565398/7896dc3e-36f6-40c6-a213-682399abe7e6">
 
 
 - **Ana Dünya**
