@@ -255,6 +255,9 @@ Bayram nedeniyle kopukluklar yaşandı ve bu hesaba katılmayan gecikmelere sebe
 ![HavvaUssu2](https://github.com/hashaska/bootcamp_u33/assets/75565398/cef1eb37-6d3b-4758-a598-ab1b763c70a9)
 ![HavvaUssu3](https://github.com/hashaska/bootcamp_u33/assets/75565398/1311fbd2-d3f7-4714-b65b-ab2e83b4a767)
 
+- **Elektrik Kabloları**
+  
+<img width="414" alt="Screenshot 2023-07-17 at 02 16 37" src="https://github.com/hashaska/bootcamp_u33/assets/75565398/00a56c05-6cc2-4c23-a764-05cf2ce6a2fd">
 
 
 - **Oyun içi diğer link** 
