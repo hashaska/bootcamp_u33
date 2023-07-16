@@ -143,7 +143,7 @@ Takım üyelerinin gelecek sprintlerde daha aktif olunması gerektiğine vurgu y
 
 - **Sprint içinde tamamlanması tahmin edilen puan:** 125
   
-- **Puan tamamlama mantığı:** Toplam tamamlanması gereken 150 puanlık backlog bulunmaktadır. İlk sprintte hedeflenen 75 puan tamamlandı. İkinci spirintin ortaya ilk üç bölümü çıkarmayı hedeflemesi sebebiyle 125 puan verildi.
+- **Puan tamamlama mantığı:** Toplam tamamlanması gereken 350 puanlık backlog bulunmaktadır. İlk sprintte hedeflenen 75 puan tamamlandı. İkinci spirintin ortaya ilk üç bölümü çıkarmayı hedeflemesi sebebiyle 125 puan verildi.
 
 - **Daily Scrum:** [Daily Scrum](https://github.com/hashaska/bootcamp_u33/blob/main/ProjectManagement/Sprint-2-Documents/dailyscrum.pdf), yapılanlar ve destek istenen konularda Discord ve Whatsapp üzerinden iletişime geçildi ve 5 adet ekip toplantısı sonucu ayrıntılı ilermeler analiz edildi.
 
@@ -212,6 +212,65 @@ Bayram nedeniyle kopukluklar yaşandı ve bu hesaba katılmayan gecikmelere sebe
 - **Sprint Notes:**
 2.Sprint'de oyuncunun oyun içindeki hissini güçlendirmek ve gerçekliği artırmak için ekstra detaylara odaklandık. Asset konusunda modelleme yerine hazır olanları kullanmak bize zaman kazandırdı. Animasyonlar üzerinde çalışmalar yapıldı. Yeni bölümlerin tasarımları ve düşman yerleşimleri için fikir toplandı ve planlamalar yapıldı. Ayrıca bir sonraki sprintte oyunun performansını artırmak için optimizasyon çalışmaları yapılması için ileriye dönük karar verildi. Sonraki sprintlerde daha fazla rapor verilmesi ve gecikmelerin hesaba katılması vurgulandı.
 
+<br>
+
+# Sprint 3
+
+- **Sprint içinde tamamlanması tahmin edilen puan:** 150
+  
+- **Puan tamamlama mantığı:** Toplam tamamlanması gereken 350 puanlık backlog bulunmaktadır. İlk sprintte hedeflenen 75 puan ve ikinci spirintte hedeflenen 125 puan tamamlanmıştır. Üçüncü sprint için 150 puan olmasının nedeni görevlerin ve levelların tam anlamıyla bitmiş olmasının hedeflenmesidir.
+
+- **Daily Scrum:** [Daily Scrum](), yapılanlar ve destek istenen konularda Discord ve Whatsapp üzerinden iletişime geçildi ve iş takibi açısından her akşam  düzenli olarak Discord ses kanalı üzerinden 15 dakikalık toplantı yapıldı.
+
+- **Backlog düzeni:** Backlog'umuz oyunumuzun ilk üç levelı baz alınarak düzenlenmiştir. Sprint başına tahmin edilen toplam puan sayısını geçmeyecek şekilde eşit dağıtımlar yapılmaktadır. [Product Backlog URL]()
+
+
+- **Sprint board update:** _Sprint board screenshots:_ 
+
+
+- **Oyun Durumu** Ekran Görüntüleri:
+
+
+
+- **Çevre**
+  
+
+- **Portal**
+  
+
+
+
+- **Oyun içi diğer link** 
+
+[Drive 1](https://drive.google.com/drive/u/0/folders/1grDpUIZNOS_mZmSaDqulw4m9bd-mOfwr)
+
+[Drive 2](https://drive.google.com/drive/folders/1lrcP4hkSntL8oNqGhwcWTkMPlxNy703L)
+
+- **Sprint Review:** *Alınan kararlar:*
+    
+2.sprintten kalan sonraki bölümler için görev paylaşımı yapıldı.
+
+Oyun için belirlenen 6 bölüm yerine 5 bölümle bitirilmesine karar kılındı. 
+
+Görevlerin dağıtımından sonra ilerlemelerin takibi için toplantılar gerçekleştirildi.
+
+Bölüm zorlukları için yeni kararlar verildi. 
+
+Bu kararlar, 3. sprintin başarıyla tamamlanması ve oyuncu deneyimini geliştirmek amacıyla alınmıştır.
+
+Sprint Review Katılımcıları: Arzunur Köroğlu, Gizem Ünal, Hasan Halil Karakaş, Furkan Şener, Can Türkoğlu
+
+- **Sprint Retrospective:**
+
+Takım üyeleri her akşam en az 15 dakikalık olan toplantılarda rapor verdi.
+
+Bir önceki sprintlerden kalanlar ve belirlenen hedeflerin yerine getirildiği verimli bir sprint oldu. 
+
+Oyun tanıtım videosu için görev dağılımı yapıldı. 
+
+
+- **Sprint Notes:**
+3.Sprint'de oyunun çıkarılması için gerekli önem verilen çalışmalar daha yoğun yapıldı. Bölümler konusunda sorumluluk almak isteyen arkadaşlarımız kusursuz işler çıkardı. Eksik olan oyun içi her türlü şeyler kategorize edilip görev olarak paylaştırıldı. Fikirler görselleştirildi ve tanıtım videosu konusunda ilerleme kaydedildi.
 
 
 
