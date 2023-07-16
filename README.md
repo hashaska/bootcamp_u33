@@ -185,7 +185,7 @@ Takım üyelerinin gelecek sprintlerde daha aktif olunması gerektiğine vurgu y
   
 Oyun bölümleriyle ilgili detaylı çalışma yapıldı ve Game Design Document (GDD) kılavuzu dolduruldu.
   
-Oyunun hikayesi ve 6 bölümü oluşturuldu.
+Oyunun hikayesi ve 5 bölümü oluşturuldu.
 
 İlk üç bölümün yapılması için 2. sprint için görev paylaşımı yapıldı.
 
@@ -248,12 +248,14 @@ Bayram nedeniyle kopukluklar yaşandı ve bu hesaba katılmayan gecikmelere sebe
 ![8-2](https://github.com/hashaska/bootcamp_u33/assets/75565398/2aec5efe-50d8-4c76-85f3-6997387e0001)
   
 
-- **Hava Üssü Level 2**
+- **Hava Üssü - Level 3**
 
 ![HavvaUssu4](https://github.com/hashaska/bootcamp_u33/assets/75565398/0fe43221-e0e1-422c-97d5-3b74b8f92fdc)
 ![HavaUssu1](https://github.com/hashaska/bootcamp_u33/assets/75565398/413177b0-3ed3-4d7d-8a25-88cf9744bbb6)
 ![HavvaUssu2](https://github.com/hashaska/bootcamp_u33/assets/75565398/cef1eb37-6d3b-4758-a598-ab1b763c70a9)
 ![HavvaUssu3](https://github.com/hashaska/bootcamp_u33/assets/75565398/1311fbd2-d3f7-4714-b65b-ab2e83b4a767)
+
+-**Yenilenebilir Enerji ve Tarım - Level 4**
 
 - **Elektrik Kabloları**
   
@@ -273,7 +275,7 @@ Bayram nedeniyle kopukluklar yaşandı ve bu hesaba katılmayan gecikmelere sebe
     
 2.sprintten kalan sonraki bölümler için görev paylaşımı yapıldı.
 
-Oyun için belirlenen 6 bölüm yerine 5 bölümle bitirilmesine karar kılındı. 
+Oyun için belirlenen 5 bölüm yerine 4 bölümle bitirilmesine karar kılındı. 
 
 Görevlerin dağıtımından sonra ilerlemelerin takibi için toplantılar gerçekleştirildi.
 
