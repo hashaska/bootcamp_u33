@@ -222,7 +222,7 @@ Bayram nedeniyle kopukluklar yaşandı ve bu hesaba katılmayan gecikmelere sebe
 
 - **Daily Scrum:** [Daily Scrum](), yapılanlar ve destek istenen konularda Discord ve Whatsapp üzerinden iletişime geçildi ve iş takibi açısından her akşam  düzenli olarak Discord ses kanalı üzerinden 15 dakikalık toplantı yapıldı.
 
-- **Backlog düzeni:** Backlog'umuz oyunumuzun ilk üç levelı baz alınarak düzenlenmiştir. Sprint başına tahmin edilen toplam puan sayısını geçmeyecek şekilde eşit dağıtımlar yapılmaktadır. [Product Backlog URL]()
+- **Backlog düzeni:** Backlog'umuz oyunumuzun ilk üç levelı baz alınarak düzenlenmiştir. Sprint başına tahmin edilen toplam puan sayısını geçmeyecek şekilde eşit dağıtımlar yapılmaktadır. [Product Backlog URL](https://miro.com/welcomeonboard/bFI0TXg1YmJpc0FsSnJqZnYxYUFEdzF5UDgzZGVrZ0hSUmNWWUtUQ2FnRWtJQ3BzMWh3bWNhZmQxMG5SQUdra3wzNDU4NzY0NTU3MDQwMTQxNDcwfDI=?share_link_id=935930534138)
 
 
 - **Sprint board update:** _Sprint board screenshots:_ 
@@ -232,11 +232,23 @@ Bayram nedeniyle kopukluklar yaşandı ve bu hesaba katılmayan gecikmelere sebe
 
 
 
-- **Çevre**
+- **Ana Dünya**
+
+![1](https://github.com/hashaska/bootcamp_u33/assets/75565398/27109331-626f-48bb-a0f4-d636fa1351b7)
+![3](https://github.com/hashaska/bootcamp_u33/assets/75565398/6a210236-c777-4d0f-9d24-e23548c0aaf9)
+![4](https://github.com/hashaska/bootcamp_u33/assets/75565398/81c94dbd-f993-4d37-bccc-59886a5208bd)
+![6](https://github.com/hashaska/bootcamp_u33/assets/75565398/a39fd7cc-74a4-4f38-bd9c-9e558c7eb232)
+  ![10](https://github.com/hashaska/bootcamp_u33/assets/75565398/5582825d-3369-4a83-8171-90ce5c57f3d8)
+![9](https://github.com/hashaska/bootcamp_u33/assets/75565398/bd657126-213f-4a6c-b46a-19eb719d5ed3)
+![8-2](https://github.com/hashaska/bootcamp_u33/assets/75565398/2aec5efe-50d8-4c76-85f3-6997387e0001)
   
 
-- **Portal**
-  
+- **Hava Üssü Level 2**
+
+![HavvaUssu4](https://github.com/hashaska/bootcamp_u33/assets/75565398/0fe43221-e0e1-422c-97d5-3b74b8f92fdc)
+![HavaUssu1](https://github.com/hashaska/bootcamp_u33/assets/75565398/413177b0-3ed3-4d7d-8a25-88cf9744bbb6)
+![HavvaUssu2](https://github.com/hashaska/bootcamp_u33/assets/75565398/cef1eb37-6d3b-4758-a598-ab1b763c70a9)
+![HavvaUssu3](https://github.com/hashaska/bootcamp_u33/assets/75565398/1311fbd2-d3f7-4714-b65b-ab2e83b4a767)
 
 
 
@@ -245,6 +257,9 @@ Bayram nedeniyle kopukluklar yaşandı ve bu hesaba katılmayan gecikmelere sebe
 [Drive 1](https://drive.google.com/drive/u/0/folders/1grDpUIZNOS_mZmSaDqulw4m9bd-mOfwr)
 
 [Drive 2](https://drive.google.com/drive/folders/1lrcP4hkSntL8oNqGhwcWTkMPlxNy703L)
+
+[Drive 3](https://drive.google.com/drive/u/0/folders/19C9oRr8rRYR5eHrHKyWtvZbO7dIbsuwy)
+
 
 - **Sprint Review:** *Alınan kararlar:*
     
