@@ -220,12 +220,13 @@ Bayram nedeniyle kopukluklar yaşandı ve bu hesaba katılmayan gecikmelere sebe
   
 - **Puan tamamlama mantığı:** Toplam tamamlanması gereken 350 puanlık backlog bulunmaktadır. İlk sprintte hedeflenen 75 puan ve ikinci spirintte hedeflenen 125 puan tamamlanmıştır. Üçüncü sprint için 150 puan olmasının nedeni görevlerin ve levelların tam anlamıyla bitmiş olmasının hedeflenmesidir.
 
-- **Daily Scrum:** [Daily Scrum](), yapılanlar ve destek istenen konularda Discord ve Whatsapp üzerinden iletişime geçildi ve iş takibi açısından her akşam  düzenli olarak Discord ses kanalı üzerinden 15 dakikalık toplantı yapıldı.
+- **Daily Scrum:** [Daily Scrum](https://github.com/hashaska/bootcamp_u33/blob/main/ProjectManagement/Sprint-3-Documents/dailyscrum.pdf), yapılanlar ve destek istenen konularda Discord ve Whatsapp üzerinden iletişime geçildi ve iş takibi açısından her akşam  düzenli olarak Discord ses kanalı üzerinden 15 dakikalık toplantı yapıldı.
 
 - **Backlog düzeni:** Backlog'umuz oyunumuzun ilk üç levelı baz alınarak düzenlenmiştir. Sprint başına tahmin edilen toplam puan sayısını geçmeyecek şekilde eşit dağıtımlar yapılmaktadır. [Product Backlog URL](https://miro.com/welcomeonboard/bFI0TXg1YmJpc0FsSnJqZnYxYUFEdzF5UDgzZGVrZ0hSUmNWWUtUQ2FnRWtJQ3BzMWh3bWNhZmQxMG5SQUdra3wzNDU4NzY0NTU3MDQwMTQxNDcwfDI=?share_link_id=935930534138)
 
 
-- **Sprint board update:   [sprint 3](https://github.com/hashaska/bootcamp_u33/assets/112066755/0fef7528-0cb7-4198-8135-3361e027e1db)
+- **Sprint board update:
+[sprint 3](https://github.com/hashaska/bootcamp_u33/assets/112066755/0fef7528-0cb7-4198-8135-3361e027e1db)
  
 
 
@@ -239,7 +240,7 @@ Bayram nedeniyle kopukluklar yaşandı ve bu hesaba katılmayan gecikmelere sebe
 ![3](https://github.com/hashaska/bootcamp_u33/assets/75565398/6a210236-c777-4d0f-9d24-e23548c0aaf9)
 ![4](https://github.com/hashaska/bootcamp_u33/assets/75565398/81c94dbd-f993-4d37-bccc-59886a5208bd)
 ![6](https://github.com/hashaska/bootcamp_u33/assets/75565398/a39fd7cc-74a4-4f38-bd9c-9e558c7eb232)
-  ![10](https://github.com/hashaska/bootcamp_u33/assets/75565398/5582825d-3369-4a83-8171-90ce5c57f3d8)
+![10](https://github.com/hashaska/bootcamp_u33/assets/75565398/5582825d-3369-4a83-8171-90ce5c57f3d8)
 ![9](https://github.com/hashaska/bootcamp_u33/assets/75565398/bd657126-213f-4a6c-b46a-19eb719d5ed3)
 ![8-2](https://github.com/hashaska/bootcamp_u33/assets/75565398/2aec5efe-50d8-4c76-85f3-6997387e0001)
   
