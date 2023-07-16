@@ -283,6 +283,8 @@ Bir önceki sprintlerden kalanlar ve belirlenen hedeflerin yerine getirildiği v
 
 Oyun tanıtım videosu için görev dağılımı yapıldı. 
 
+Bazı görevlerimiz bir günümüz daha olduğu için yapılma sürecindedir. 
+
 
 - **Sprint Notes:**
 3.Sprint'de oyunun çıkarılması için gerekli önem verilen çalışmalar daha yoğun yapıldı. Bölümler konusunda sorumluluk almak isteyen arkadaşlarımız kusursuz işler çıkardı. Eksik olan oyun içi her türlü şeyler kategorize edilip görev olarak paylaştırıldı. Fikirler görselleştirildi ve tanıtım videosu konusunda ilerleme kaydedildi.
